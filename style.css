@@ -1,0 +1,146 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0em;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+p {
+  font-weight: 700;
+}
+.header-section {
+  margin: 5px;
+  height: 50px;
+  padding-top: 20px;
+}
+
+.header-link {
+  width: 8%;
+  float: right;
+  position: center;
+}
+
+.header-link a {
+  text-decoration: none;
+  color: gray;
+  font-weight: 700;
+}
+.introduction-section {
+  margin: 5px;
+  height: 600px;
+}
+.half-width {
+  width: 40%;
+  margin: 2%;
+  padding: 2%;
+  float: left;
+  height: 75%;
+
+  text-align: center;
+}
+.half-width img {
+  width: 80%;
+  height: 100%;
+  position: center;
+}
+
+.link-button {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg, orange, tomato);
+}
+
+.orange-highlight {
+  color: orange;
+}
+.navy-highlight {
+  color: navy;
+}
+
+.about-section {
+  margin: 5px;
+  height: 600px;
+}
+
+.btn {
+  background-image: linear-gradient(45deg, orange, tomato);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+.experience-area {
+  height: 600px;
+  text-align: center;
+}
+.single-box {
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 5px;
+  height: 60%;
+}
+#full-stack {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, orange, tomato);
+  border-image-slice: 1;
+}
+
+#baby {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, blue, cyan);
+  border-image-slice: 1;
+}
+.project-section {
+  margin: 5px;
+  height: 600px;
+
+  text-align: center;
+}
+
+.project-box {
+  width: 29%;
+  margin: 1%;
+  padding: 1%;
+  float: left;
+  height: 400px;
+}
+.project-box img {
+  width: 100%;
+}
+
+.inquiry-section {
+  height: 200px;
+  margin: 5% 20%;
+  background-image: url("shapes/Group_33094_1.png");
+}
+
+.half-part {
+  width: 40%;
+  float: left;
+  padding: 10% 2% 10% 4%;
+  height: 50%;
+  text-align: center;
+}
+
+.half-part h2 {
+  color: white;
+  position: center;
+}
+
+.footer-section {
+  height: 300px;
+  text-align: center;
+}
+
+.footer-part {
+  display: inline;
+}
+
+.footer-part img {
+  width: 50px;
+  height: 45px;
+}
